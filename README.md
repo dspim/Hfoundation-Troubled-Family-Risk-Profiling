@@ -3,7 +3,6 @@
 
 ## author
 Ting-Wei Lin<sup>1</sup>,Tsun-Wei Tseng<sup>2</sup>,Yu-Hsuan Lin<sup>3</sup>,Pei-Yu Chen<sup>4</sup>,Ning-Yuan Lyu<sup>5</sup>,Ting-Kuang Lo<sup>6</sup>,Shing-Yun Jung<sup>7</sup>,Hsu Wei<sup>8</sup>,Charles Chuang<sup>9</sup>,Chun-Yu Yin<sup>8</sup>,Johnson Hsieh<sup>10,11</sup>
-<sup>superscript</sup>
 
   1. Genome and Systems Biology Degree Program, National Taiwan University and Academia Sinica
   2. TAO Info Co.Ltd
