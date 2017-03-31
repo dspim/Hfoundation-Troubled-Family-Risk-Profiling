@@ -2,24 +2,22 @@
 # Applying Data Science For Social Good In Non-Profit Organization With Troubled Family Risk Profiling R Dashboard Application
 
 ## author
-Ting-Wei Lin^1^,Tsun-Wei Tseng^2^,Yu-Hsuan Lin^3^,Pei-Yu Chen^4^,Ning-Yuan Lyu^5^,Ting-Kuang Lo^6^,Shing-Yun Jung^7^,Hsu Wei^8^,Charles Chuang^9^,Chun-Yu Yin^8^,Johnson Hsieh^10^
+Ting-Wei Lin<sup>1</sup>,Tsun-Wei Tseng<sup>2</sup>,Yu-Hsuan Lin<sup>3</sup>,Pei-Yu Chen<sup>4</sup>,Ning-Yuan Lyu<sup>5</sup>,Ting-Kuang Lo<sup>6</sup>,Shing-Yun Jung<sup>7</sup>,Hsu Wei<sup>8</sup>,Charles Chuang<sup>9</sup>,Chun-Yu Yin<sup>8</sup>,Johnson Hsieh<sup>10,11</sup>
+<sup>superscript</sup>
 
-
-- 1. Genome and Systems Biology Degree Program, National Taiwan University and Academia Sinica
-- 2. TAO Info Co.Ltd
-- 3. inQ Technology Co.Ltd
-- 4. Pegatron Co.Ltd
-- 5. Department of Electrical Engineering, National Tsing-Hua University
-- 6. Department of applied mathematics, Feng Chia University
-- 7. Department of Computer Science, National Tsing-Hua University
-- 8. Hfoundataion
-- 9. NETivism Co.Ltd
-- 10. Department of Computer Science, National Chengchi University
-- 11. DSP Co.Ltd
+  1. Genome and Systems Biology Degree Program, National Taiwan University and Academia Sinica
+  2. TAO Info Co.Ltd
+  3. inQ Technology Co.Ltd
+  4. Pegatron Co.Ltd
+  5. Department of Electrical Engineering, National Tsing-Hua University
+  6. Department of applied mathematics, Feng Chia University
+  7. Department of Computer Science, National Tsing-Hua University
+  8. Hfoundataion
+  9. NETivism Co.Ltd
+  10. Department of Computer Science, National Chengchi University
+  11. DSP Co.Ltd
 
 **Keywords**:  troubled family risk profiling, data science for social good, association rule analysis, steady-state analysis, topic model, shiny application
-
-**Github**: https://github.com/dspim/Hfoundation-Troubled-Family-Risk-Profiling
 
 **Webpages**:  https://weitinglin.shinyapps.io/d4sg_dashboard_v1/
 
@@ -35,5 +33,5 @@ Assessing the troubled families's risk status and distributing the resources rig
 
 
 # References
-1. Fletcher A, Gardner F, McKee M, Bonell C.(2012). The British government’s Troubled Families Programme. BMJ2012;344:e3403. doi:10.1136/bmj.e3403 pmid:22592850.
+1. Fletcher A, Gardner F, McKee M, Bonell C.(2012). The British government’s Troubled Families Programme. BMJ2012;344:e3403. doi: https://10.1136/bmj.e3403 
 2. Chris Bonell, Martin McKee.(2016). Adam Fletcher. Troubled families, troubled policy making. BMJ 2016; 355 doi: https://doi.org/10.1136/bmj.i5879
